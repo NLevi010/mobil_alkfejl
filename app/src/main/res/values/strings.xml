@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="user_name">Username</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="account_type">Account type</string>
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+    <string name="item_placeholder">Title</string>
+    <string name="item_info_placeholder">Subtitle</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="views">views</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="shopping_item_names">
+        <item>Xiaomi Redmi Note 12 Pro</item>
+        <item>Apple iPhone 13</item>
+        <item>Samsung Galaxy A54</item>
+        <item>Apple iPhone 14 Pro</item>
+        <item>Apple iPhone 14</item>
+        <item>Samsung Galaxy A33</item>
+        <item>Samsung Galaxy S23 Ultra</item>
+        <item>Xiaomi Redmi Note 12 </item>
+        <item>Apple iPhone 11 </item>
+        <item>Honor Magic5 Lite </item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>128GB / 6GB</item>
+        <item>128GB / 4GB</item>
+        <item>128GB / 8GB</item>
+        <item>128GB / 6GB</item>
+        <item>128GB / 6GB</item>
+        <item>128GB / 6GB </item>
+        <item>256GB / 8GB</item>
+        <item>128GB / 4GB</item>
+        <item>64 GB / 4GB</item>
+        <item>128GB / 6GB</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/phone1</item>
+        <item>@drawable/phone2</item>
+        <item>@drawable/phone3</item>
+        <item>@drawable/phone4</item>
+        <item>@drawable/phone5</item>
+        <item>@drawable/phone6</item>
+        <item>@drawable/phone7</item>
+        <item>@drawable/phone8</item>
+        <item>@drawable/phone9</item>
+        <item>@drawable/phone10</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>108 390 Ft</item>
+        <item>293 990 Ft</item>
+        <item>149 590 Ft</item>
+        <item>420 990 Ft</item>
+        <item>321 590 Ft</item>
+        <item>108 390 Ft</item>
+        <item>410 390</item>
+        <item>65 890 Ft</item>
+        <item>183 590 Ft</item>
+        <item>106 999 Ft</item>
+    </array>
+</resources>
